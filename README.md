@@ -1,2 +1,2 @@
 # g-simulator
-draken, ridders en planeten
+dragons, knights and planets
